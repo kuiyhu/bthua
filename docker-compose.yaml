@@ -1,5 +1,0 @@
-services:
-  bthua:
-    build: .
-    ports:
-      - 8888:80
